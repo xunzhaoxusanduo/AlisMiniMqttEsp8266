@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="png/main.png" width="400px" height="560px" alt="Banner" />
+  <img src="png/main.png" width="400px" height="805px" alt="Banner" />
 </p>
  
 
@@ -34,7 +34,7 @@
  ## 六、连接效果图
  
  <p align="center">
-  <img src="png/GIF.gif" width="400px" height="560px" alt="Banner" />
+  <img src="png/GIF.gif" width="400px" height="800px" alt="Banner" />
 </p>
 
 

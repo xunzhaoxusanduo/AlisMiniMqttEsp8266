@@ -13,7 +13,7 @@ Page({
       clientId: 'alis Mini',
       myAli: null,
       clean: true,
-      password: 'xuhong123',
+      password: '',
       username: 'admin',
       reconnectPeriod: 1000, //1000毫秒，两次重新连接之间的间隔
       connectTimeout: 30 * 1000, //1000毫秒，两次重新连接之间的间隔

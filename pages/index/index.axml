@@ -1,0 +1,16 @@
+<view class="page">
+  <view >
+    <button type="primary" class="btnConnect" onTap="btnConnect">连接Mqtt服务器        
+    </button>
+    <button type="primary" onTap="btnSubOne">订阅单个主题        
+    </button>
+    <button type="primary" onTap="btnSubMany">订阅多个主题        
+    </button>
+    <button type="primary" onTap="btnPub">发送一则消息        
+    </button>
+     <button type="primary" onTap="btnUnSubOne">取消订阅主题操作(单个)    
+    </button>
+     <button type="primary" onTap="btnUnSubMany">取消订阅主题操作(多个)     
+    </button>
+  </view>
+</view>
